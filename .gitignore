@@ -13,8 +13,9 @@ env/
 logs/
 *.log
 
-# Excel temp/lock files
+# Excel temp/lock files and the generated entries workbook
 ~$*.xlsx
+AssetEntries.xlsx
 
 # IDE
 .vscode/
